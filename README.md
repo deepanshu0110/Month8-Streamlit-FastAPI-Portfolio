@@ -22,7 +22,10 @@
 
 | Day | Topic | File | Type |
 |-----|-------|------|------|
+| 141 | Streamlit Fundamentals | `Day141_Streamlit_Fundamentals.ipynb` | Notebook |
+| 141 | Streamlit Fundamentals | `Day141_app.py` | Python |
 | — | — | `README.md` | Markdown |
+| — | — | `freelancehub_india.csv` | Dataset |
 
 ---
 
@@ -39,4 +42,4 @@
 
 ---
 
-*Auto-synced via watchdog -- Last updated: 29 May 2026 21:41*
+*Auto-synced via watchdog -- Last updated: 29 May 2026 21:42*

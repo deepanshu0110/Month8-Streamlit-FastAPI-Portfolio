@@ -1,0 +1,501 @@
+project_id,category,budget_inr,duration_days,client_rating,freelancer_level,status,city,platform_fee_pct,month
+P001,Digital Marketing,70355,89,3.7,Top Rated,Completed,Chennai,20,Feb
+P002,ML/AI,95518,13,3.9,Top Rated,Completed,Pune,10,Dec
+P003,Web Development,149779,76,3.0,Level 2,Completed,Kolkata,15,Aug
+P004,Data Analytics,32445,44,3.0,Level 2,Completed,Pune,15,May
+P005,Design,135726,18,2.5,Rising Talent,Completed,Delhi,15,Jul
+P006,Web Development,53716,62,4.6,Level 2,In Progress,Hyderabad,10,Feb
+P007,Web Development,42074,82,3.4,Rising Talent,In Progress,Mumbai,10,Aug
+P008,Design,146612,50,3.9,Top Rated,Cancelled,Delhi,20,May
+P009,Content Writing,84279,88,4.6,Level 1,Cancelled,Bangalore,10,Oct
+P010,Web Development,30801,51,3.7,Rising Talent,Completed,Chennai,15,Sep
+P011,Web Development,44357,27,3.4,Rising Talent,In Progress,Mumbai,15,Oct
+P012,ML/AI,104951,21,4.0,Top Rated,Cancelled,Chennai,20,Jul
+P013,Content Writing,94340,11,4.4,Rising Talent,In Progress,Pune,15,Nov
+P014,Web Development,104136,35,4.0,Rising Talent,Cancelled,Hyderabad,15,Jan
+P015,ML/AI,85459,51,4.2,Level 1,In Progress,Chennai,20,Aug
+P016,Data Analytics,14828,40,4.2,Rising Talent,In Progress,Pune,10,Aug
+P017,Design,109530,63,3.7,Rising Talent,Completed,Kolkata,15,Jul
+P018,ML/AI,112305,71,3.6,Level 1,Completed,Chennai,20,Jun
+P019,Design,81465,76,3.7,Level 1,In Progress,Hyderabad,20,Mar
+P020,Data Analytics,122591,76,4.7,Rising Talent,Completed,Delhi,15,Sep
+P021,Web Development,33664,55,3.4,Rising Talent,Completed,Chennai,20,Oct
+P022,Content Writing,114387,58,3.9,Rising Talent,Completed,Bangalore,15,Feb
+P023,Web Development,38360,82,3.6,Top Rated,Completed,Hyderabad,15,Nov
+P024,Content Writing,38786,75,4.4,Rising Talent,Completed,Pune,20,Nov
+P025,Content Writing,69304,20,3.8,Top Rated,In Progress,Hyderabad,15,Nov
+P026,ML/AI,108918,46,3.2,Rising Talent,In Progress,Hyderabad,10,Apr
+P027,Web Development,81070,54,2.6,Rising Talent,Completed,Mumbai,15,Jan
+P028,Web Development,98953,50,2.9,Level 2,In Progress,Mumbai,10,Mar
+P029,Design,47077,63,4.1,Level 2,Completed,Chennai,15,Sep
+P030,Digital Marketing,119779,44,4.7,Rising Talent,Completed,Pune,15,Jun
+P031,Design,125457,43,3.6,Top Rated,Completed,Mumbai,15,Jul
+P032,Digital Marketing,125915,70,3.2,Top Rated,Completed,Hyderabad,10,Apr
+P033,Content Writing,73626,16,3.7,Level 2,Completed,Pune,15,May
+P034,Web Development,21238,77,2.5,Level 2,Completed,Chennai,20,Sep
+P035,Web Development,25794,20,4.4,Level 2,In Progress,Bangalore,10,Jan
+P036,Data Analytics,124812,86,3.9,Rising Talent,Completed,Delhi,20,Aug
+P037,ML/AI,80190,61,4.9,Level 2,In Progress,Pune,15,May
+P038,Data Analytics,113041,55,3.9,Level 2,In Progress,Chennai,15,Jan
+P039,ML/AI,141372,89,3.7,Level 2,Completed,Mumbai,20,Aug
+P040,Data Analytics,29879,45,4.2,Level 2,Completed,Delhi,20,Apr
+P041,Digital Marketing,35658,49,2.7,Level 1,Cancelled,Chennai,15,Nov
+P042,Digital Marketing,91752,12,2.6,Rising Talent,Completed,Delhi,15,Jul
+P043,Data Analytics,139654,28,2.6,Level 2,In Progress,Bangalore,20,May
+P044,ML/AI,63173,48,4.1,Level 1,Cancelled,Pune,20,May
+P045,Data Analytics,117877,37,4.2,Rising Talent,In Progress,Kolkata,15,Oct
+P046,ML/AI,77134,69,4.2,Level 1,Completed,Bangalore,20,Nov
+P047,Design,67841,83,4.4,Level 1,Completed,Delhi,15,Jun
+P048,Design,120051,74,3.1,Level 1,In Progress,Bangalore,15,Jan
+P049,ML/AI,97226,24,2.7,Level 2,In Progress,Chennai,10,Apr
+P050,ML/AI,15480,53,4.3,Level 1,Cancelled,Chennai,20,Jun
+P051,Data Analytics,39593,72,4.4,Top Rated,Completed,Chennai,15,Jun
+P052,Data Analytics,24061,22,3.8,Rising Talent,In Progress,Delhi,20,Jun
+P053,Web Development,49519,41,3.2,Top Rated,In Progress,Pune,20,Jun
+P054,Design,75380,60,4.9,Level 2,In Progress,Bangalore,20,Feb
+P055,Web Development,7180,53,3.0,Level 2,Completed,Delhi,15,Feb
+P056,Digital Marketing,131178,32,4.9,Rising Talent,In Progress,Pune,15,Jan
+P057,Content Writing,130156,11,3.8,Top Rated,Completed,Chennai,20,Jan
+P058,Data Analytics,20729,53,4.6,Rising Talent,Completed,Delhi,15,Mar
+P059,Digital Marketing,5870,38,2.6,Level 1,In Progress,Pune,15,Jun
+P060,Data Analytics,119671,43,4.1,Top Rated,Completed,Bangalore,15,Feb
+P061,Data Analytics,26715,47,2.9,Level 1,In Progress,Chennai,10,Aug
+P062,Data Analytics,104266,42,3.2,Rising Talent,In Progress,Hyderabad,15,Nov
+P063,Design,106358,68,3.8,Level 1,Completed,Hyderabad,15,Feb
+P064,Design,8568,43,3.1,Rising Talent,Completed,Mumbai,10,Dec
+P065,Data Analytics,43458,7,3.5,Level 1,In Progress,Bangalore,15,Nov
+P066,Digital Marketing,93018,54,4.7,Rising Talent,Completed,Hyderabad,15,Apr
+P067,Content Writing,24573,23,3.6,Level 1,Completed,Hyderabad,15,Jan
+P068,Data Analytics,131896,26,4.7,Rising Talent,Completed,Chennai,20,Sep
+P069,Data Analytics,121515,43,3.1,Level 1,Completed,Delhi,10,Oct
+P070,Data Analytics,145302,78,4.9,Rising Talent,In Progress,Hyderabad,20,Jan
+P071,Content Writing,63263,72,3.9,Level 1,Cancelled,Kolkata,15,Mar
+P072,Content Writing,143489,84,4.3,Rising Talent,Completed,Kolkata,15,Mar
+P073,ML/AI,112320,29,2.9,Level 1,In Progress,Mumbai,20,Feb
+P074,Data Analytics,78347,61,2.6,Level 1,Cancelled,Delhi,10,Apr
+P075,Web Development,135033,89,5.0,Level 2,In Progress,Chennai,15,Apr
+P076,Web Development,121304,23,3.1,Level 1,Completed,Chennai,15,May
+P077,Web Development,27323,80,4.9,Rising Talent,Completed,Mumbai,15,Dec
+P078,Web Development,16046,58,4.6,Level 1,Completed,Pune,20,Mar
+P079,Web Development,77038,44,3.3,Level 2,Completed,Pune,15,Nov
+P080,ML/AI,32699,68,4.4,Rising Talent,Completed,Mumbai,15,Jul
+P081,Content Writing,40614,61,2.8,Rising Talent,Completed,Delhi,20,Feb
+P082,Web Development,128429,62,4.3,Level 2,Completed,Hyderabad,15,Apr
+P083,Data Analytics,20492,11,4.8,Level 1,In Progress,Bangalore,20,Apr
+P084,Web Development,128897,14,4.8,Rising Talent,Completed,Hyderabad,15,Oct
+P085,ML/AI,142719,60,3.6,Level 1,In Progress,Chennai,20,Jun
+P086,Design,10323,88,3.3,Level 2,Completed,Chennai,15,Sep
+P087,Design,132197,49,4.6,Level 1,Completed,Chennai,15,Oct
+P088,ML/AI,65887,35,4.9,Level 1,Cancelled,Mumbai,15,Sep
+P089,Web Development,35230,37,4.9,Level 1,In Progress,Mumbai,20,Apr
+P090,Web Development,7360,31,3.8,Top Rated,In Progress,Pune,10,May
+P091,Data Analytics,42291,32,3.3,Level 2,In Progress,Bangalore,20,Aug
+P092,Web Development,31012,45,3.5,Level 2,Completed,Pune,15,Feb
+P093,Web Development,32654,73,3.9,Level 1,Completed,Delhi,15,Aug
+P094,Content Writing,58421,37,2.7,Level 2,Completed,Delhi,15,Jan
+P095,Design,131421,12,4.9,Level 1,Completed,Chennai,20,Feb
+P096,Design,8252,48,3.3,Top Rated,Completed,Mumbai,20,Oct
+P097,ML/AI,127279,13,4.3,Level 2,Completed,Hyderabad,20,Mar
+P098,Content Writing,131361,57,4.8,Top Rated,In Progress,Kolkata,15,May
+P099,Web Development,70921,49,3.7,Level 2,In Progress,Kolkata,20,Apr
+P100,Digital Marketing,76562,85,4.2,Level 2,Completed,Mumbai,15,May
+P101,Web Development,134947,78,2.7,Level 2,Cancelled,Kolkata,20,Feb
+P102,Content Writing,144471,66,3.4,Level 2,Completed,Delhi,15,Feb
+P103,ML/AI,78684,14,3.5,Level 1,Completed,Pune,15,Jun
+P104,Data Analytics,70836,3,3.4,Rising Talent,Completed,Kolkata,15,Dec
+P105,Data Analytics,26607,47,3.2,Level 2,Completed,Chennai,20,Apr
+P106,Content Writing,77073,84,4.9,Rising Talent,Completed,Delhi,10,Nov
+P107,Web Development,129014,28,3.4,Level 1,Completed,Bangalore,15,Aug
+P108,Content Writing,128122,37,2.6,Level 1,Completed,Chennai,20,Jul
+P109,Web Development,19444,53,3.5,Level 2,In Progress,Mumbai,10,Apr
+P110,Web Development,90092,43,3.7,Rising Talent,Completed,Chennai,10,Jun
+P111,Web Development,10177,42,2.5,Level 2,Completed,Kolkata,15,Nov
+P112,Web Development,145777,37,4.7,Rising Talent,Completed,Chennai,15,Dec
+P113,ML/AI,10065,84,4.6,Level 1,Cancelled,Hyderabad,15,May
+P114,ML/AI,44804,5,4.2,Level 2,Completed,Pune,15,Jun
+P115,Web Development,38839,37,4.3,Rising Talent,Completed,Bangalore,20,Jun
+P116,Data Analytics,103577,80,3.3,Level 2,Completed,Chennai,15,Dec
+P117,Content Writing,15761,15,3.6,Rising Talent,Completed,Kolkata,20,Jan
+P118,Design,146575,83,4.8,Rising Talent,Completed,Hyderabad,15,Mar
+P119,Design,41735,37,4.5,Level 1,Completed,Bangalore,15,Jan
+P120,Web Development,15835,68,3.8,Rising Talent,Completed,Mumbai,20,Apr
+P121,Digital Marketing,16430,81,3.1,Level 2,Completed,Kolkata,20,Jun
+P122,Data Analytics,119689,38,2.8,Level 1,Completed,Hyderabad,10,Nov
+P123,Digital Marketing,88351,80,3.1,Level 1,Completed,Chennai,20,Apr
+P124,Content Writing,132217,12,3.1,Level 2,Cancelled,Kolkata,15,May
+P125,Content Writing,116235,19,4.9,Level 1,Completed,Hyderabad,20,May
+P126,Content Writing,93145,20,3.4,Level 2,Completed,Bangalore,15,Feb
+P127,Data Analytics,36202,13,3.1,Rising Talent,Completed,Chennai,15,Mar
+P128,Design,131845,36,3.9,Rising Talent,In Progress,Chennai,15,Sep
+P129,Content Writing,21103,72,4.1,Rising Talent,In Progress,Delhi,15,May
+P130,Content Writing,130322,86,3.7,Rising Talent,Cancelled,Kolkata,10,Dec
+P131,ML/AI,11822,15,3.1,Level 2,Completed,Hyderabad,15,Nov
+P132,Data Analytics,19090,81,3.5,Level 1,In Progress,Pune,20,May
+P133,Digital Marketing,110948,86,4.2,Level 2,Completed,Hyderabad,15,Feb
+P134,Web Development,79018,54,3.8,Top Rated,Completed,Hyderabad,15,Aug
+P135,Content Writing,138129,20,4.9,Top Rated,In Progress,Bangalore,20,Nov
+P136,Web Development,13474,64,4.9,Rising Talent,Completed,Chennai,10,Oct
+P137,Data Analytics,133493,41,4.3,Level 2,Completed,Bangalore,20,Jan
+P138,Design,120862,85,2.7,Level 2,Completed,Bangalore,10,Dec
+P139,Data Analytics,105813,22,4.4,Level 1,Completed,Bangalore,15,Apr
+P140,Data Analytics,129883,22,3.6,Rising Talent,In Progress,Bangalore,15,Oct
+P141,Design,51144,84,3.0,Level 1,Completed,Hyderabad,10,Jun
+P142,Design,121331,42,4.2,Level 1,In Progress,Bangalore,20,Oct
+P143,Data Analytics,48511,38,3.9,Level 1,In Progress,Chennai,20,Sep
+P144,Data Analytics,57750,7,3.9,Rising Talent,Completed,Delhi,10,Nov
+P145,Digital Marketing,47803,78,4.9,Level 2,Completed,Pune,15,Oct
+P146,ML/AI,64342,59,3.8,Level 2,In Progress,Kolkata,10,Feb
+P147,Digital Marketing,130898,66,4.3,Level 2,Completed,Pune,15,Feb
+P148,Web Development,10561,48,4.8,Level 1,In Progress,Mumbai,15,Oct
+P149,Data Analytics,33640,31,2.9,Level 1,Completed,Bangalore,15,Feb
+P150,Design,117250,13,4.6,Level 1,Completed,Chennai,15,May
+P151,Design,51229,67,4.6,Level 1,Completed,Kolkata,20,Aug
+P152,Content Writing,96477,85,4.4,Level 2,Completed,Chennai,20,Feb
+P153,Web Development,67847,54,3.7,Rising Talent,Completed,Pune,10,Jul
+P154,Web Development,18531,41,4.6,Top Rated,Completed,Chennai,20,Mar
+P155,Data Analytics,105677,41,4.0,Level 2,In Progress,Bangalore,15,Nov
+P156,Content Writing,61956,78,4.5,Top Rated,Completed,Pune,10,Jul
+P157,Web Development,148315,84,4.3,Level 2,In Progress,Chennai,15,Dec
+P158,Web Development,107828,19,4.9,Top Rated,Completed,Mumbai,15,Apr
+P159,Web Development,25942,20,4.9,Top Rated,Completed,Mumbai,20,Dec
+P160,Digital Marketing,69361,8,3.6,Level 1,In Progress,Bangalore,15,Apr
+P161,Data Analytics,55281,57,2.7,Level 2,Completed,Pune,10,Feb
+P162,Web Development,16078,35,4.2,Level 2,Completed,Delhi,15,Dec
+P163,Digital Marketing,121226,7,3.3,Level 1,Completed,Delhi,20,Aug
+P164,Design,47548,85,4.6,Rising Talent,Completed,Hyderabad,20,Oct
+P165,Design,24378,48,3.6,Rising Talent,Cancelled,Pune,10,Apr
+P166,Content Writing,118375,61,3.7,Level 1,Completed,Kolkata,15,Aug
+P167,Digital Marketing,83154,59,3.2,Level 2,Completed,Delhi,15,Jan
+P168,Digital Marketing,19076,7,5.0,Rising Talent,Completed,Hyderabad,20,Mar
+P169,Design,137878,21,3.8,Level 2,Completed,Hyderabad,15,Aug
+P170,Data Analytics,54806,30,3.2,Level 2,Cancelled,Pune,20,Sep
+P171,Web Development,122444,23,3.2,Level 1,Cancelled,Hyderabad,10,Jul
+P172,Design,110544,3,4.4,Rising Talent,In Progress,Delhi,20,Dec
+P173,Design,38125,6,3.1,Level 1,In Progress,Kolkata,10,Sep
+P174,Content Writing,78354,5,2.6,Level 2,Completed,Pune,10,Sep
+P175,Data Analytics,51202,57,4.7,Level 1,Completed,Chennai,20,Feb
+P176,ML/AI,60367,72,2.7,Rising Talent,Cancelled,Bangalore,10,Feb
+P177,Content Writing,134911,53,2.6,Level 1,Completed,Chennai,20,Nov
+P178,Digital Marketing,134377,34,4.4,Level 1,Completed,Mumbai,10,Nov
+P179,Web Development,94138,78,4.2,Level 1,Completed,Pune,15,Nov
+P180,Web Development,44552,23,4.4,Rising Talent,In Progress,Chennai,10,Jul
+P181,Content Writing,121583,32,4.0,Rising Talent,Completed,Bangalore,15,Dec
+P182,Content Writing,108621,90,3.9,Level 2,Completed,Mumbai,15,Sep
+P183,ML/AI,129530,31,4.5,Top Rated,In Progress,Mumbai,10,Dec
+P184,Web Development,46799,47,4.9,Level 2,Completed,Chennai,15,Jan
+P185,ML/AI,127698,49,3.8,Level 1,Completed,Delhi,20,Dec
+P186,Content Writing,95730,13,4.6,Top Rated,Completed,Kolkata,20,Oct
+P187,Web Development,61099,47,2.7,Level 1,Completed,Hyderabad,15,Jul
+P188,Content Writing,91733,23,4.1,Top Rated,Completed,Chennai,15,Sep
+P189,Web Development,32409,10,2.9,Level 2,Cancelled,Delhi,20,Sep
+P190,Digital Marketing,121704,19,3.5,Top Rated,Completed,Delhi,15,Aug
+P191,Web Development,5169,5,2.6,Level 1,Completed,Mumbai,20,Dec
+P192,Data Analytics,62353,79,4.6,Rising Talent,Completed,Hyderabad,15,Jun
+P193,Content Writing,67024,3,3.3,Level 1,Completed,Bangalore,20,Mar
+P194,Content Writing,101920,84,4.1,Rising Talent,In Progress,Pune,15,Jun
+P195,Design,27316,53,4.6,Top Rated,Cancelled,Hyderabad,15,Jul
+P196,Web Development,124400,66,2.5,Level 2,Completed,Mumbai,20,Aug
+P197,Digital Marketing,61517,75,4.3,Level 1,Completed,Bangalore,15,Aug
+P198,ML/AI,103869,8,4.5,Rising Talent,Cancelled,Pune,15,Jan
+P199,Web Development,11753,38,4.8,Rising Talent,In Progress,Delhi,15,Jul
+P200,Content Writing,126038,65,4.9,Level 2,Completed,Pune,15,Jan
+P201,Data Analytics,16567,52,3.2,Top Rated,Completed,Pune,15,Mar
+P202,Design,92916,13,4.0,Level 2,Completed,Kolkata,20,Mar
+P203,Data Analytics,49747,32,3.1,Top Rated,Completed,Kolkata,10,May
+P204,Data Analytics,46451,45,5.0,Rising Talent,Completed,Chennai,20,Mar
+P205,Data Analytics,125901,23,2.7,Top Rated,In Progress,Kolkata,20,Jan
+P206,ML/AI,134350,83,2.6,Level 1,In Progress,Chennai,20,May
+P207,Web Development,114406,65,3.9,Level 2,Completed,Delhi,20,Feb
+P208,ML/AI,123089,87,4.6,Rising Talent,Completed,Delhi,15,Jan
+P209,Data Analytics,14991,52,4.2,Level 1,In Progress,Delhi,10,Aug
+P210,Content Writing,147541,50,2.7,Rising Talent,In Progress,Mumbai,15,Dec
+P211,Data Analytics,96675,11,4.1,Level 1,Completed,Pune,20,Feb
+P212,Digital Marketing,133626,87,4.3,Level 2,Completed,Kolkata,15,Jun
+P213,Web Development,74162,62,4.7,Rising Talent,Cancelled,Hyderabad,10,May
+P214,ML/AI,96744,77,3.9,Rising Talent,Completed,Bangalore,20,Sep
+P215,Content Writing,5071,50,2.9,Level 1,In Progress,Kolkata,15,Jun
+P216,Data Analytics,127021,21,4.4,Rising Talent,Completed,Mumbai,15,Aug
+P217,Web Development,7184,37,2.6,Level 2,Completed,Mumbai,15,Mar
+P218,Content Writing,88982,27,4.1,Rising Talent,Completed,Bangalore,20,Apr
+P219,Web Development,16272,73,5.0,Top Rated,Completed,Delhi,20,Jan
+P220,Design,74879,4,3.4,Level 1,Completed,Kolkata,10,Nov
+P221,Digital Marketing,31121,58,4.5,Rising Talent,Completed,Bangalore,20,Oct
+P222,ML/AI,126765,11,3.4,Rising Talent,Completed,Delhi,15,Dec
+P223,Digital Marketing,114039,88,4.9,Level 2,Completed,Mumbai,20,Feb
+P224,Web Development,136771,80,4.4,Rising Talent,Completed,Mumbai,20,Dec
+P225,Content Writing,63870,74,4.7,Rising Talent,Completed,Bangalore,20,Jul
+P226,Content Writing,16640,5,3.8,Level 2,Completed,Mumbai,10,Sep
+P227,Data Analytics,22307,75,3.8,Top Rated,In Progress,Hyderabad,20,Nov
+P228,Web Development,135460,23,3.8,Top Rated,In Progress,Chennai,15,Aug
+P229,Web Development,31938,20,4.5,Rising Talent,In Progress,Pune,20,Oct
+P230,Digital Marketing,43017,17,4.7,Level 1,Completed,Mumbai,15,May
+P231,Web Development,143442,53,4.3,Level 1,In Progress,Pune,10,Jan
+P232,Data Analytics,90887,79,3.6,Rising Talent,Completed,Chennai,15,Jan
+P233,Design,74541,50,4.0,Rising Talent,In Progress,Mumbai,20,Jul
+P234,ML/AI,135770,25,2.7,Top Rated,Completed,Delhi,10,Oct
+P235,Data Analytics,129334,17,3.3,Level 1,Completed,Mumbai,20,Jun
+P236,Content Writing,97150,7,3.8,Rising Talent,Completed,Kolkata,20,Mar
+P237,Design,11258,43,4.1,Level 2,Completed,Mumbai,15,Jul
+P238,ML/AI,26914,11,2.7,Level 1,Completed,Hyderabad,15,Jan
+P239,Data Analytics,56263,88,4.7,Level 1,Completed,Pune,15,Aug
+P240,Design,123728,78,3.4,Level 2,Completed,Hyderabad,20,Jun
+P241,Web Development,72554,30,4.5,Level 1,Completed,Mumbai,15,Aug
+P242,Web Development,25139,38,4.7,Top Rated,Completed,Delhi,15,Jan
+P243,Web Development,115900,76,2.9,Rising Talent,Completed,Chennai,15,Sep
+P244,Design,52535,82,4.7,Level 1,Cancelled,Hyderabad,20,Jan
+P245,Web Development,15133,33,4.1,Rising Talent,In Progress,Pune,20,Jun
+P246,Data Analytics,121375,36,3.9,Top Rated,In Progress,Chennai,15,Mar
+P247,Web Development,85283,76,3.5,Rising Talent,Cancelled,Delhi,10,Apr
+P248,Design,142517,14,4.0,Rising Talent,Cancelled,Bangalore,15,Apr
+P249,Web Development,124894,73,4.9,Level 1,In Progress,Bangalore,15,Jul
+P250,Data Analytics,71598,82,3.6,Level 1,Completed,Mumbai,15,Aug
+P251,ML/AI,116746,48,4.8,Level 2,Completed,Pune,20,Mar
+P252,ML/AI,114928,61,4.8,Level 1,In Progress,Chennai,20,May
+P253,Content Writing,38522,29,4.0,Rising Talent,Completed,Chennai,15,Jun
+P254,Content Writing,54828,76,2.6,Level 2,Completed,Chennai,15,Sep
+P255,Data Analytics,8566,26,4.2,Level 2,Completed,Kolkata,20,Oct
+P256,Web Development,96959,74,3.1,Rising Talent,Completed,Chennai,15,Jun
+P257,Content Writing,124897,73,3.5,Level 1,Completed,Mumbai,10,Jun
+P258,Web Development,77618,59,3.5,Level 2,Completed,Bangalore,10,Jun
+P259,Web Development,85163,84,3.4,Rising Talent,Completed,Bangalore,15,Jul
+P260,Content Writing,140926,80,4.9,Top Rated,Completed,Hyderabad,20,Dec
+P261,Web Development,88972,55,3.0,Level 1,Completed,Pune,15,Jun
+P262,Web Development,101175,16,4.8,Top Rated,Completed,Delhi,20,Sep
+P263,Design,37522,12,4.6,Level 2,Completed,Hyderabad,15,Feb
+P264,Digital Marketing,87141,90,3.2,Level 2,Cancelled,Pune,15,May
+P265,Digital Marketing,27671,70,3.6,Top Rated,In Progress,Mumbai,20,Oct
+P266,Web Development,131528,37,3.5,Level 1,In Progress,Bangalore,15,Sep
+P267,Data Analytics,71460,30,2.5,Level 1,In Progress,Bangalore,10,Feb
+P268,Data Analytics,73637,62,2.9,Rising Talent,Cancelled,Mumbai,10,Sep
+P269,Web Development,30807,8,3.5,Top Rated,Completed,Delhi,15,Jul
+P270,Web Development,33553,28,3.3,Rising Talent,Completed,Pune,10,Mar
+P271,Web Development,55842,9,3.4,Level 2,In Progress,Bangalore,20,Sep
+P272,Web Development,44817,57,4.8,Level 1,Completed,Chennai,10,May
+P273,Digital Marketing,26092,83,2.6,Level 2,Completed,Chennai,15,Nov
+P274,Web Development,142954,54,4.9,Level 1,Completed,Hyderabad,15,Feb
+P275,Data Analytics,65244,68,3.9,Level 2,In Progress,Mumbai,20,Nov
+P276,Digital Marketing,34630,85,3.9,Level 1,Completed,Chennai,15,Feb
+P277,ML/AI,9433,5,4.5,Rising Talent,Completed,Bangalore,10,May
+P278,Data Analytics,15463,33,4.2,Level 1,In Progress,Mumbai,15,Aug
+P279,Content Writing,112109,78,4.1,Rising Talent,Completed,Bangalore,15,Sep
+P280,Digital Marketing,134890,42,3.9,Level 1,Completed,Chennai,15,Jul
+P281,Design,68869,36,3.0,Level 1,Completed,Hyderabad,15,Aug
+P282,ML/AI,25088,49,4.7,Level 2,In Progress,Chennai,10,Jan
+P283,ML/AI,148087,28,4.3,Rising Talent,Completed,Hyderabad,15,Jan
+P284,Design,19880,72,4.6,Top Rated,Completed,Kolkata,20,May
+P285,Content Writing,70281,79,3.3,Top Rated,Completed,Pune,20,May
+P286,ML/AI,136787,40,4.4,Rising Talent,Cancelled,Mumbai,15,Sep
+P287,Design,54510,17,4.0,Level 2,Completed,Hyderabad,15,Mar
+P288,Web Development,12519,21,4.4,Level 2,In Progress,Bangalore,15,Dec
+P289,Digital Marketing,99286,7,4.7,Rising Talent,Completed,Pune,15,Aug
+P290,Content Writing,69636,40,4.5,Rising Talent,Completed,Hyderabad,15,Dec
+P291,Data Analytics,109061,86,3.8,Rising Talent,In Progress,Pune,15,Nov
+P292,Data Analytics,116364,82,4.1,Level 1,In Progress,Kolkata,10,Apr
+P293,Web Development,146539,4,4.9,Level 1,Completed,Mumbai,15,Jul
+P294,Data Analytics,22865,26,3.0,Rising Talent,Completed,Hyderabad,15,Jul
+P295,Data Analytics,90303,44,3.4,Rising Talent,In Progress,Kolkata,15,Sep
+P296,Design,82661,24,4.7,Level 2,Completed,Kolkata,10,Jun
+P297,ML/AI,27280,60,4.8,Rising Talent,In Progress,Chennai,15,Jun
+P298,ML/AI,29998,38,4.7,Level 2,Completed,Hyderabad,10,Jan
+P299,Web Development,6967,5,3.7,Rising Talent,Completed,Chennai,15,Apr
+P300,Design,109706,48,2.7,Level 2,Completed,Chennai,20,Aug
+P301,Data Analytics,129101,35,4.7,Level 1,In Progress,Delhi,20,May
+P302,ML/AI,49841,67,3.9,Level 1,Completed,Mumbai,15,Oct
+P303,Data Analytics,95898,61,3.6,Rising Talent,Completed,Kolkata,20,Sep
+P304,ML/AI,72936,73,2.5,Top Rated,In Progress,Delhi,15,Sep
+P305,Design,142528,7,4.2,Level 1,Completed,Hyderabad,15,Jan
+P306,Digital Marketing,99648,48,3.7,Level 2,Completed,Bangalore,20,Sep
+P307,ML/AI,64857,14,2.9,Level 1,In Progress,Mumbai,20,Jun
+P308,Design,141913,58,4.4,Rising Talent,In Progress,Bangalore,15,Jun
+P309,Design,91400,13,4.2,Level 1,Completed,Bangalore,15,Apr
+P310,Content Writing,87327,5,4.5,Rising Talent,Completed,Chennai,15,Oct
+P311,Web Development,142596,62,3.2,Level 1,Completed,Hyderabad,15,Apr
+P312,Design,138459,66,4.2,Level 1,In Progress,Hyderabad,15,Jun
+P313,Content Writing,76267,43,3.9,Top Rated,Completed,Chennai,15,May
+P314,Data Analytics,130825,50,2.7,Level 1,In Progress,Pune,10,Oct
+P315,Web Development,35702,41,3.1,Level 1,In Progress,Kolkata,15,Dec
+P316,Design,29695,68,3.2,Level 1,In Progress,Hyderabad,10,Apr
+P317,Web Development,44151,86,4.3,Level 1,Completed,Kolkata,15,Dec
+P318,Design,53843,85,4.6,Level 1,Completed,Pune,10,Feb
+P319,Digital Marketing,20858,72,3.4,Level 2,Completed,Kolkata,10,Sep
+P320,Design,13277,23,5.0,Rising Talent,Completed,Bangalore,15,Nov
+P321,ML/AI,64614,32,4.6,Rising Talent,Cancelled,Delhi,10,Feb
+P322,Web Development,45493,90,3.7,Rising Talent,In Progress,Mumbai,15,Sep
+P323,ML/AI,17733,3,2.6,Rising Talent,In Progress,Delhi,15,Jan
+P324,Content Writing,17160,66,2.6,Top Rated,Completed,Pune,15,Nov
+P325,Web Development,125865,82,3.9,Rising Talent,Completed,Pune,15,Apr
+P326,Data Analytics,124117,80,4.8,Level 2,In Progress,Chennai,20,Jun
+P327,Digital Marketing,88018,76,4.5,Top Rated,In Progress,Hyderabad,10,Aug
+P328,Design,73581,39,4.2,Level 1,Completed,Pune,20,Oct
+P329,Web Development,142905,17,4.3,Rising Talent,Completed,Pune,15,Sep
+P330,Content Writing,17636,57,4.5,Level 2,In Progress,Delhi,20,Feb
+P331,Design,30353,28,3.4,Level 2,Completed,Pune,20,Sep
+P332,Content Writing,89818,54,4.8,Level 2,Completed,Kolkata,15,Jul
+P333,Web Development,41715,77,2.5,Level 1,Completed,Kolkata,10,Jan
+P334,Design,74115,76,4.4,Rising Talent,Completed,Mumbai,15,Mar
+P335,ML/AI,121012,77,3.6,Rising Talent,In Progress,Chennai,20,Jun
+P336,Web Development,12115,41,4.6,Level 2,Completed,Mumbai,15,Sep
+P337,Design,108276,50,2.6,Level 1,In Progress,Delhi,20,Jul
+P338,Web Development,146404,55,3.3,Level 1,In Progress,Chennai,20,Oct
+P339,Digital Marketing,112903,45,3.3,Level 1,In Progress,Pune,10,Feb
+P340,Data Analytics,103041,27,4.7,Rising Talent,Completed,Pune,15,Jan
+P341,Web Development,66700,66,3.1,Rising Talent,In Progress,Mumbai,15,Dec
+P342,Content Writing,56395,58,3.7,Rising Talent,In Progress,Pune,15,Mar
+P343,ML/AI,19436,29,3.8,Top Rated,Completed,Bangalore,15,Mar
+P344,Content Writing,69651,87,3.6,Level 2,Completed,Kolkata,15,Jan
+P345,Content Writing,88018,65,4.7,Level 1,In Progress,Delhi,15,Jul
+P346,Design,130640,28,3.4,Top Rated,Completed,Pune,15,Nov
+P347,Design,41252,81,3.9,Level 2,Cancelled,Bangalore,10,Aug
+P348,Content Writing,36623,21,4.3,Rising Talent,In Progress,Chennai,10,Apr
+P349,Web Development,5611,60,2.7,Level 2,In Progress,Chennai,15,Apr
+P350,Data Analytics,57332,77,3.7,Rising Talent,Completed,Chennai,20,Sep
+P351,ML/AI,68518,47,3.0,Level 2,In Progress,Bangalore,10,Sep
+P352,Web Development,106887,67,3.2,Level 1,Completed,Mumbai,15,Oct
+P353,ML/AI,42901,23,4.0,Level 2,Completed,Delhi,20,Jan
+P354,Design,42616,15,4.7,Level 2,Cancelled,Delhi,10,Nov
+P355,Web Development,6749,36,4.5,Top Rated,In Progress,Chennai,15,Feb
+P356,ML/AI,98877,19,3.1,Level 2,In Progress,Mumbai,20,Sep
+P357,Digital Marketing,71739,73,3.1,Level 1,Completed,Delhi,20,Mar
+P358,Content Writing,51022,54,2.9,Level 2,Completed,Delhi,20,May
+P359,Design,61878,17,2.7,Rising Talent,Completed,Pune,15,Aug
+P360,Content Writing,53779,9,3.8,Level 2,In Progress,Delhi,10,Jun
+P361,Web Development,34367,90,2.9,Level 2,In Progress,Kolkata,20,May
+P362,Data Analytics,9510,32,3.2,Level 1,Completed,Chennai,15,Jun
+P363,Design,18218,32,3.8,Rising Talent,Completed,Pune,15,Feb
+P364,Web Development,149604,18,4.7,Level 1,In Progress,Chennai,15,Feb
+P365,Design,144535,89,2.8,Level 2,Completed,Pune,15,Jun
+P366,Data Analytics,91901,65,3.5,Rising Talent,Cancelled,Pune,10,Sep
+P367,Data Analytics,80782,50,2.8,Level 1,Completed,Hyderabad,15,Feb
+P368,Web Development,117408,84,4.8,Level 1,Completed,Kolkata,15,Oct
+P369,Web Development,30802,25,4.5,Top Rated,Completed,Kolkata,10,Jul
+P370,Web Development,35305,14,4.9,Rising Talent,Cancelled,Hyderabad,15,May
+P371,Web Development,86227,18,5.0,Level 2,In Progress,Kolkata,10,Aug
+P372,Web Development,79399,82,2.6,Level 1,In Progress,Chennai,20,Mar
+P373,Web Development,113098,40,4.7,Rising Talent,Completed,Pune,20,Jul
+P374,Digital Marketing,69591,33,2.9,Level 1,Cancelled,Hyderabad,15,Jan
+P375,Content Writing,20247,65,2.8,Rising Talent,Completed,Bangalore,20,Aug
+P376,Design,100895,71,4.1,Rising Talent,In Progress,Kolkata,10,Sep
+P377,Web Development,77461,87,4.2,Level 2,In Progress,Mumbai,15,May
+P378,Design,87773,76,2.6,Level 2,Cancelled,Pune,20,Mar
+P379,ML/AI,126920,57,4.4,Rising Talent,Completed,Kolkata,20,Nov
+P380,Design,34475,82,4.2,Top Rated,In Progress,Mumbai,10,Aug
+P381,Design,138080,84,4.1,Level 2,In Progress,Kolkata,10,Dec
+P382,Design,111017,31,4.7,Level 2,Cancelled,Delhi,15,Apr
+P383,Content Writing,85747,14,3.5,Level 1,In Progress,Bangalore,15,Sep
+P384,Data Analytics,140162,69,3.2,Level 1,In Progress,Chennai,15,Jun
+P385,Data Analytics,43777,86,3.9,Level 1,Completed,Kolkata,15,Feb
+P386,Web Development,20327,63,2.7,Rising Talent,Completed,Mumbai,10,Dec
+P387,ML/AI,8566,46,3.0,Rising Talent,Completed,Chennai,10,Jul
+P388,Digital Marketing,114436,83,4.6,Level 2,Cancelled,Kolkata,15,Mar
+P389,Digital Marketing,46087,18,4.5,Level 1,Completed,Chennai,20,May
+P390,Data Analytics,116518,11,3.7,Level 2,Completed,Kolkata,10,Nov
+P391,Digital Marketing,103022,30,4.5,Level 2,In Progress,Mumbai,15,May
+P392,Data Analytics,44276,51,2.8,Level 1,Cancelled,Kolkata,15,Sep
+P393,ML/AI,107747,17,4.1,Level 2,In Progress,Pune,20,Aug
+P394,Web Development,86015,59,4.5,Rising Talent,Completed,Delhi,20,Nov
+P395,Digital Marketing,28539,51,3.5,Level 2,Completed,Delhi,20,Jun
+P396,Web Development,81554,32,4.4,Level 1,Completed,Delhi,15,Jun
+P397,Digital Marketing,148372,36,2.7,Level 2,Cancelled,Delhi,15,May
+P398,Digital Marketing,67430,55,2.6,Rising Talent,Completed,Hyderabad,20,Sep
+P399,Content Writing,148655,64,4.6,Level 2,Completed,Chennai,15,Jan
+P400,Design,99871,28,3.4,Top Rated,Completed,Mumbai,15,May
+P401,Content Writing,121164,42,3.1,Level 2,Completed,Chennai,15,Sep
+P402,Design,77688,87,2.9,Top Rated,In Progress,Chennai,10,Mar
+P403,Content Writing,20904,59,3.6,Level 1,In Progress,Pune,20,Sep
+P404,Web Development,131316,88,3.1,Top Rated,Completed,Delhi,15,Jun
+P405,Data Analytics,51881,61,4.1,Level 1,Completed,Mumbai,15,Jul
+P406,ML/AI,102777,19,3.2,Rising Talent,In Progress,Bangalore,15,Nov
+P407,Content Writing,53808,70,3.9,Rising Talent,Completed,Bangalore,10,Aug
+P408,Data Analytics,123227,76,3.2,Top Rated,Completed,Chennai,20,Nov
+P409,Data Analytics,120660,36,4.0,Level 1,Completed,Kolkata,20,Dec
+P410,ML/AI,98647,80,3.7,Rising Talent,Completed,Kolkata,20,Sep
+P411,Web Development,148300,52,2.7,Level 2,Completed,Kolkata,10,Dec
+P412,Web Development,121387,55,4.5,Level 2,Completed,Hyderabad,15,Sep
+P413,ML/AI,86166,19,4.6,Level 1,Completed,Kolkata,20,Jul
+P414,Design,146269,35,3.8,Level 1,In Progress,Mumbai,20,Feb
+P415,Web Development,109735,69,3.7,Level 1,Completed,Bangalore,10,Nov
+P416,Data Analytics,28930,18,3.5,Level 2,Completed,Bangalore,15,Nov
+P417,Design,143774,73,3.0,Level 1,Completed,Mumbai,15,Dec
+P418,Web Development,50624,40,2.7,Top Rated,Completed,Chennai,15,Mar
+P419,Design,110314,73,3.3,Level 1,Completed,Chennai,20,Nov
+P420,ML/AI,76281,87,4.5,Level 1,Completed,Hyderabad,10,Dec
+P421,Digital Marketing,33513,8,2.5,Rising Talent,In Progress,Hyderabad,20,Apr
+P422,ML/AI,74162,38,4.4,Level 2,Completed,Mumbai,15,Dec
+P423,ML/AI,140503,87,3.0,Top Rated,Completed,Chennai,15,Jun
+P424,Data Analytics,98328,68,4.8,Top Rated,Completed,Bangalore,15,Jan
+P425,Content Writing,40607,58,3.7,Top Rated,In Progress,Pune,20,Aug
+P426,ML/AI,82140,24,4.4,Rising Talent,Completed,Delhi,15,Sep
+P427,Web Development,143791,41,4.0,Level 1,Completed,Delhi,20,Jan
+P428,ML/AI,81059,62,3.2,Level 1,Completed,Bangalore,15,Mar
+P429,Content Writing,60502,25,2.6,Level 1,In Progress,Kolkata,15,May
+P430,ML/AI,81815,82,3.2,Level 1,Completed,Delhi,20,Jun
+P431,Data Analytics,86281,3,3.4,Rising Talent,In Progress,Kolkata,15,Sep
+P432,Web Development,39133,68,3.5,Level 2,Completed,Bangalore,10,Mar
+P433,Content Writing,71093,63,3.5,Rising Talent,Completed,Kolkata,15,Oct
+P434,ML/AI,103579,32,3.4,Level 2,Completed,Mumbai,10,Jul
+P435,Web Development,48300,30,2.6,Level 2,Completed,Mumbai,15,Feb
+P436,ML/AI,147398,24,3.5,Level 2,Completed,Bangalore,15,Sep
+P437,Content Writing,111483,22,2.6,Level 2,Completed,Bangalore,10,Jun
+P438,ML/AI,118784,17,4.1,Rising Talent,Completed,Kolkata,15,Mar
+P439,Content Writing,148759,62,2.5,Rising Talent,Completed,Mumbai,15,Apr
+P440,Data Analytics,116730,59,4.9,Level 2,In Progress,Chennai,15,Oct
+P441,Data Analytics,100665,86,4.0,Level 1,Completed,Chennai,15,Mar
+P442,Design,21079,88,4.3,Level 1,Completed,Mumbai,15,Jun
+P443,Web Development,129688,68,3.3,Level 2,Completed,Pune,10,Feb
+P444,Digital Marketing,91312,19,3.3,Rising Talent,Completed,Pune,20,Nov
+P445,Content Writing,76491,62,3.5,Rising Talent,In Progress,Kolkata,10,Nov
+P446,Web Development,51223,57,4.8,Top Rated,Completed,Bangalore,15,Nov
+P447,Web Development,106272,7,4.7,Level 1,Completed,Mumbai,20,Jan
+P448,Data Analytics,53361,73,3.5,Top Rated,Completed,Bangalore,15,Mar
+P449,Design,111707,41,3.7,Top Rated,Completed,Bangalore,20,Jan
+P450,Content Writing,48079,34,4.9,Level 1,Completed,Delhi,20,Nov
+P451,Digital Marketing,69040,24,3.8,Level 2,Completed,Bangalore,10,Jul
+P452,ML/AI,50872,81,4.7,Top Rated,Cancelled,Mumbai,15,Dec
+P453,Web Development,24697,75,3.6,Level 1,Completed,Hyderabad,10,Jan
+P454,Content Writing,42761,69,4.7,Level 2,Completed,Delhi,20,Dec
+P455,Data Analytics,21958,29,3.0,Level 1,In Progress,Mumbai,15,Jan
+P456,Data Analytics,65063,56,4.7,Rising Talent,Completed,Pune,10,Jun
+P457,Digital Marketing,89782,70,3.1,Rising Talent,Completed,Mumbai,15,Jul
+P458,Content Writing,128029,71,4.6,Level 2,In Progress,Kolkata,20,May
+P459,Data Analytics,56544,6,3.7,Rising Talent,Completed,Bangalore,15,Apr
+P460,ML/AI,39202,78,2.9,Level 2,Completed,Delhi,20,Jan
+P461,Web Development,75167,3,3.1,Level 2,Completed,Bangalore,10,Apr
+P462,Web Development,51627,66,4.3,Level 2,Completed,Chennai,15,Nov
+P463,Web Development,39065,73,4.1,Rising Talent,Completed,Pune,20,Mar
+P464,Web Development,24692,14,2.8,Rising Talent,In Progress,Hyderabad,15,Dec
+P465,Digital Marketing,88466,40,3.3,Level 1,Completed,Pune,20,Mar
+P466,Content Writing,17635,31,2.7,Rising Talent,Completed,Kolkata,20,Apr
+P467,Web Development,67821,15,4.4,Level 2,Completed,Bangalore,15,Apr
+P468,Data Analytics,123302,26,3.4,Level 1,Completed,Mumbai,10,Nov
+P469,Data Analytics,135736,47,3.6,Level 1,Completed,Delhi,15,Mar
+P470,Web Development,141783,60,3.7,Level 1,Completed,Bangalore,15,May
+P471,Content Writing,123698,52,3.4,Rising Talent,Completed,Chennai,15,Nov
+P472,Content Writing,144623,81,4.9,Level 1,Completed,Kolkata,15,Oct
+P473,Digital Marketing,18833,17,4.5,Top Rated,Completed,Chennai,20,Apr
+P474,Data Analytics,14637,21,2.9,Level 2,Completed,Hyderabad,15,May
+P475,Content Writing,112877,76,2.7,Rising Talent,Completed,Bangalore,20,Nov
+P476,Data Analytics,106998,17,2.7,Level 2,Cancelled,Kolkata,10,Dec
+P477,Data Analytics,102156,59,4.3,Level 2,Completed,Chennai,20,Sep
+P478,Design,103334,23,3.3,Rising Talent,In Progress,Pune,20,Jul
+P479,Web Development,14173,61,3.2,Level 2,Completed,Delhi,15,May
+P480,Design,58827,64,3.7,Level 1,Completed,Chennai,10,Feb
+P481,ML/AI,131198,4,2.6,Level 2,Cancelled,Bangalore,15,Sep
+P482,Web Development,77141,12,3.3,Level 1,In Progress,Bangalore,15,Mar
+P483,Digital Marketing,139201,46,3.3,Level 2,Completed,Mumbai,15,Dec
+P484,Web Development,32725,77,4.1,Top Rated,In Progress,Chennai,15,May
+P485,Content Writing,72972,5,5.0,Rising Talent,In Progress,Pune,15,Feb
+P486,Data Analytics,118210,69,4.9,Level 2,Completed,Kolkata,20,Dec
+P487,Data Analytics,145141,3,4.1,Top Rated,Completed,Mumbai,15,May
+P488,Content Writing,62871,54,3.2,Rising Talent,In Progress,Pune,20,Aug
+P489,ML/AI,89075,27,4.5,Top Rated,Completed,Bangalore,20,Feb
+P490,Digital Marketing,17351,41,3.7,Rising Talent,In Progress,Chennai,20,May
+P491,ML/AI,40605,53,3.7,Level 1,In Progress,Hyderabad,15,Dec
+P492,ML/AI,120068,79,4.4,Rising Talent,In Progress,Pune,20,Jul
+P493,Web Development,111184,32,3.7,Level 1,Completed,Bangalore,15,Feb
+P494,Digital Marketing,137806,9,4.9,Level 2,Completed,Mumbai,20,Jun
+P495,Content Writing,92829,57,4.3,Rising Talent,Completed,Kolkata,10,Jul
+P496,Design,43458,88,3.7,Level 2,Completed,Kolkata,15,Jan
+P497,Data Analytics,49748,67,3.0,Level 2,In Progress,Delhi,15,Aug
+P498,ML/AI,146752,15,4.5,Rising Talent,Completed,Pune,15,Jul
+P499,Web Development,140356,16,5.0,Level 1,In Progress,Delhi,15,Nov
+P500,Data Analytics,129581,33,2.8,Level 1,In Progress,Kolkata,20,Jul
