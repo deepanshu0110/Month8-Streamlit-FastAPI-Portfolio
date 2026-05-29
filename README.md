@@ -24,6 +24,8 @@
 |-----|-------|------|------|
 | 141 | Streamlit Fundamentals | `Day141_Streamlit_Fundamentals.ipynb` | Notebook |
 | 141 | Streamlit Fundamentals | `Day141_app.py` | Python |
+| 142 | File Upload + Dynamic Filters | `Day142_Streamlit_SessionState.ipynb` | Notebook |
+| 142 | File Upload + Dynamic Filters | `app_day142.py` | Python |
 | — | — | `README.md` | Markdown |
 | — | — | `freelancehub_india.csv` | Dataset |
 
