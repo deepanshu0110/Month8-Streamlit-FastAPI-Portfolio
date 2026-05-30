@@ -28,6 +28,8 @@
 | 142 | File Upload + Dynamic Filters | `app_day142.py` | Python |
 | 143 | Streamlit EDA Dashboard | `Day143_Streamlit_FileUpload_EDA.ipynb` | Notebook |
 | 143 | Streamlit EDA Dashboard | `day143_app.py` | Python |
+| 144 | ML Model Integration | `Day144_Streamlit_ML_Deployment.ipynb` | Notebook |
+| 144 | ML Model Integration | `day144_app.py` | Python |
 | — | — | `README.md` | Markdown |
 | — | — | `freelancehub_india.csv` | Dataset |
 
