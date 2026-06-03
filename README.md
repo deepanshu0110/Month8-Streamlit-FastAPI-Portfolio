@@ -31,6 +31,8 @@
 | 144 | ML Model Integration | `Day144_Streamlit_ML_Deployment.ipynb` | Notebook |
 | 144 | ML Model Integration | `day144_app.py` | Python |
 | 145 | Session State + Caching | `Day145_Advanced_Caching_MultiPage.ipynb` | Notebook |
+| 146 | Multi-Page Streamlit Apps | `Day146_ML_Explainability_Dashboard.ipynb` | Notebook |
+| 146 | Multi-Page Streamlit Apps | `day146_batch_test.csv` | Dataset |
 | — | — | `README.md` | Markdown |
 | — | — | `freelancehub_india.csv` | Dataset |
 

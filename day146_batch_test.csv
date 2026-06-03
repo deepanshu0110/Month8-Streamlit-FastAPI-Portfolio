@@ -1,0 +1,51 @@
+project_id,category,platform,city,level,budget_inr,duration_days,client_rating,bids_received
+TEST000,ML/AI,Fiverr,Delhi,Mid,79710,84.0,,4.0
+TEST001,Content Writing,Freelancer,Delhi,Entry,82443,26.0,2.6,21.0
+TEST002,SEO/Digital Marketing,Toptal,Hyderabad,Senior,59966,49.0,2.6,16.0
+TEST003,Web Dev,Toptal,Hyderabad,Entry,110398,,4.9,29.0
+TEST004,ML/AI,Upwork,Chennai,Senior,45835,64.0,5.0,23.0
+TEST005,Web Dev,Direct Client,Chennai,Mid,38010,29.0,3.7,15.0
+TEST006,Graphic Design,Freelancer,Bangalore,Entry,56634,45.0,2.8,31.0
+TEST007,Web Dev,Fiverr,Kolkata,Mid,87582,26.0,2.7,30.0
+TEST008,Graphic Design,Toptal,Pune,Mid,99789,13.0,3.1,45.0
+TEST009,ML/AI,Upwork,Bangalore,Entry,29640,88.0,4.4,8.0
+TEST010,SEO/Digital Marketing,Freelancer,Hyderabad,Entry,64462,11.0,4.0,34.0
+TEST011,SEO/Digital Marketing,Fiverr,Bangalore,Entry,50915,87.0,3.7,32.0
+TEST012,ML/AI,Direct Client,Delhi,Mid,16221,50.0,4.9,42.0
+TEST013,ML/AI,Direct Client,Delhi,Entry,42296,53.0,4.6,50.0
+TEST014,ML/AI,Direct Client,Hyderabad,Entry,22745,72.0,3.0,18.0
+TEST015,SEO/Digital Marketing,Upwork,Mumbai,Entry,15944,49.0,3.0,9.0
+TEST016,Data Analytics,Direct Client,Mumbai,Mid,60857,31.0,5.0,22.0
+TEST017,Graphic Design,Toptal,Mumbai,Senior,97810,9.0,3.1,30.0
+TEST018,Graphic Design,Direct Client,Bangalore,Mid,73413,78.0,3.9,10.0
+TEST019,SEO/Digital Marketing,Freelancer,Pune,Mid,62400,27.0,2.8,5.0
+TEST020,Content Writing,Toptal,Mumbai,Entry,51698,42.0,4.6,26.0
+TEST021,Data Analytics,Toptal,Mumbai,Senior,16626,46.0,4.5,8.0
+TEST022,Data Analytics,Direct Client,Pune,Entry,55636,,3.2,37.0
+TEST023,Web Dev,Toptal,Pune,Senior,30899,77.0,4.8,20.0
+TEST024,SEO/Digital Marketing,Direct Client,Pune,Mid,62155,44.0,3.8,41.0
+TEST025,Graphic Design,Direct Client,Delhi,Senior,87282,67.0,2.8,39.0
+TEST026,Content Writing,Toptal,Kolkata,Senior,113141,39.0,2.9,12.0
+TEST027,Graphic Design,Upwork,Mumbai,Entry,16812,22.0,3.5,
+TEST028,ML/AI,Toptal,Chennai,Senior,32167,41.0,4.9,5.0
+TEST029,Web Dev,Direct Client,Kolkata,Senior,15663,59.0,4.9,13.0
+TEST030,Content Writing,Direct Client,Mumbai,Mid,113283,20.0,3.1,35.0
+TEST031,SEO/Digital Marketing,Upwork,Bangalore,Mid,65559,7.0,3.7,
+TEST032,Graphic Design,Direct Client,Chennai,Mid,13231,57.0,3.7,50.0
+TEST033,Content Writing,Toptal,Bangalore,Senior,96834,61.0,3.9,7.0
+TEST034,ML/AI,Upwork,Pune,Entry,10585,78.0,3.9,8.0
+TEST035,Graphic Design,Direct Client,Delhi,Mid,62512,87.0,2.9,14.0
+TEST036,Data Analytics,Upwork,Pune,Entry,95477,35.0,2.6,32.0
+TEST037,Content Writing,Freelancer,Mumbai,Senior,93247,80.0,,19.0
+TEST038,Content Writing,Fiverr,Kolkata,Mid,15519,21.0,4.1,47.0
+TEST039,SEO/Digital Marketing,Toptal,Hyderabad,Entry,33969,38.0,2.6,6.0
+TEST040,Graphic Design,Direct Client,Hyderabad,Mid,29418,81.0,3.8,43.0
+TEST041,Web Dev,Freelancer,Bangalore,Entry,62613,43.0,4.4,36.0
+TEST042,Content Writing,Fiverr,Bangalore,Entry,76858,56.0,3.0,26.0
+TEST043,Data Analytics,Fiverr,Bangalore,Senior,6982,33.0,4.6,8.0
+TEST044,Data Analytics,Fiverr,Pune,Senior,64938,89.0,3.4,21.0
+TEST045,ML/AI,Freelancer,Kolkata,Mid,75666,55.0,3.8,26.0
+TEST046,Web Dev,Toptal,Pune,Mid,39372,81.0,5.0,28.0
+TEST047,Web Dev,Fiverr,Delhi,Entry,8218,80.0,3.4,8.0
+TEST048,Graphic Design,Toptal,Mumbai,Entry,36184,80.0,3.4,45.0
+TEST049,Web Dev,Toptal,Chennai,Mid,112917,23.0,2.8,10.0
