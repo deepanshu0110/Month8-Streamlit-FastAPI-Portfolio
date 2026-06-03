@@ -1,0 +1,43 @@
+{
+  "model": "RandomForestClassifier",
+  "n_estimators": 100,
+  "accuracy": 0.65,
+  "features": [
+    "hourly_rate",
+    "client_rating",
+    "bids_received",
+    "duration_days",
+    "milestones",
+    "revision_rounds",
+    "category_enc",
+    "exp_enc",
+    "payment_enc"
+  ],
+  "target_classes": [
+    "Cancelled",
+    "Completed"
+  ],
+  "fill_medians": {
+    "client_rating": 3.0,
+    "bids_received": 32.0,
+    "duration_days": 61.0
+  },
+  "category_encoding": {
+    "Content Writing": 0,
+    "Data Science": 1,
+    "Graphic Design": 2,
+    "SEO": 3,
+    "Web Dev": 4
+  },
+  "experience_encoding": {
+    "Junior": 0,
+    "Mid": 1,
+    "Senior": 2
+  },
+  "payment_encoding": {
+    "Fixed": 0,
+    "Hourly": 1
+  },
+  "training_rows": 400,
+  "test_rows": 100
+}
