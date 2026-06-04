@@ -35,6 +35,7 @@
 | 146 | Multi-Page Streamlit Apps | `day146_batch_test.csv` | Dataset |
 | 147 | FastAPI Basics | `Day147_FastAPI_Fundamentals.ipynb` | Notebook |
 | 148 | FastAPI + ML Model Serving | `Day148_FastAPI_DB_Auth.ipynb` | Notebook |
+| 149 | Deployment - Streamlit Cloud | `Day149_StreamlitFastAPI_Integration.ipynb` | Notebook |
 | — | — | `README.md` | Markdown |
 | — | — | `freelancehub_india.csv` | Dataset |
 
