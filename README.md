@@ -34,6 +34,7 @@
 | 146 | Multi-Page Streamlit Apps | `Day146_ML_Explainability_Dashboard.ipynb` | Notebook |
 | 146 | Multi-Page Streamlit Apps | `day146_batch_test.csv` | Dataset |
 | 147 | FastAPI Basics | `Day147_FastAPI_Fundamentals.ipynb` | Notebook |
+| 148 | FastAPI + ML Model Serving | `Day148_FastAPI_DB_Auth.ipynb` | Notebook |
 | — | — | `README.md` | Markdown |
 | — | — | `freelancehub_india.csv` | Dataset |
 
@@ -52,4 +53,4 @@
 
 ---
 
-*Auto-synced via watchdog -- Last updated: 04 Jun 2026 21:33*
+*Auto-synced via watchdog -- Last updated: 04 Jun 2026 21:34*
