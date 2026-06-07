@@ -36,6 +36,7 @@
 | 147 | FastAPI Basics | `Day147_FastAPI_Fundamentals.ipynb` | Notebook |
 | 148 | FastAPI + ML Model Serving | `Day148_FastAPI_DB_Auth.ipynb` | Notebook |
 | 149 | Deployment - Streamlit Cloud | `Day149_StreamlitFastAPI_Integration.ipynb` | Notebook |
+| 150 | Deployment - Render + Docker Basics | `Day150_Docker_Concepts.ipynb` | Notebook |
 | — | — | `README.md` | Markdown |
 | — | — | `freelancehub_india.csv` | Dataset |
 
@@ -54,4 +55,4 @@
 
 ---
 
-*Auto-synced via watchdog -- Last updated: 07 Jun 2026 17:54*
+*Auto-synced via watchdog -- Last updated: 07 Jun 2026 17:55*
