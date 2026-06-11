@@ -1,0 +1,14 @@
+render_yaml = """
+services:
+  - type: web
+    name: freelancehub-api
+    env: docker
+    dockerfilePath: ./day149_api/Dockerfile
+    healthCheckPath: /health
+    plan: free
+    envVars:
+      - key: SECRET_KEY
+        value: freelancehub-secret-key-2024
+"""
+
+print(render_yaml)

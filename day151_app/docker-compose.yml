@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  api:
+    build: ./day149_api
+    ports:
+      - "8000:8000"
+    environment:
+      - API_KEY=freelance_secret_key
+    # Optional: persist SQLite database across container restarts
+    volumes:
+      - ./day149_api/freelancehub.db:/app/freelancehub.db
+
+  frontend:
+    build: ./day149_app
+    ports:
+      - "8501:8501"
+    depends_on:
+      - api
+    environment:
+      - API_BASE_URL=http://api:8000
+      - API_KEY=freelance_secret_key

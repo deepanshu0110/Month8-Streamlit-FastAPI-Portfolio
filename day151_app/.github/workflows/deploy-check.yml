@@ -1,0 +1,30 @@
+name: CI Health Check
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  docker-health-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Build Docker image
+        run: docker build -t freelancehub-api ./day149_api
+
+      - name: Run container
+        run: docker run -d -p 8000:8000 --name api-container freelancehub-api
+
+      - name: Wait for container to start
+        run: sleep 5
+
+      - name: Health check
+        run: curl -f http://localhost:8000/health
+
+      - name: Cleanup
+        if: always()
+        run: docker rm -f api-container
