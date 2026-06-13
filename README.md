@@ -38,6 +38,7 @@
 | 149 | Deployment - Streamlit Cloud | `Day149_StreamlitFastAPI_Integration.ipynb` | Notebook |
 | 150 | Deployment - Render + Docker Basics | `Day150_Docker_Concepts.ipynb` | Notebook |
 | 151 | Week 1 Mini-Project (EDA App) | `Day151_Cloud_Deployment.ipynb` | Notebook |
+| 152 | Week 2 Mini-Project (ML Prediction App) | `Day152_GitHub_Actions_CICD.ipynb` | Notebook |
 | — | — | `README.md` | Markdown |
 | — | — | `freelancehub_india.csv` | Dataset |
 
