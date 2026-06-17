@@ -39,6 +39,10 @@
 | 150 | Deployment - Render + Docker Basics | `Day150_Docker_Concepts.ipynb` | Notebook |
 | 151 | Week 1 Mini-Project (EDA App) | `Day151_Cloud_Deployment.ipynb` | Notebook |
 | 152 | Week 2 Mini-Project (ML Prediction App) | `Day152_GitHub_Actions_CICD.ipynb` | Notebook |
+| 153 | Advanced Streamlit - Plotly + Custom CSS | `Day153_Monitoring_Structured_Logging.ipynb` | Notebook |
+| 154 | Streamlit + Database Integration | `Day154_Bulk_Import_Test.csv` | Dataset |
+| 154 | Streamlit + Database Integration | `Day154_Streamlit_Database_Integration.ipynb` | Notebook |
+| 154 | Streamlit + Database Integration | `day154_app.py` | Python |
 | — | — | `README.md` | Markdown |
 | — | — | `freelancehub_india.csv` | Dataset |
 

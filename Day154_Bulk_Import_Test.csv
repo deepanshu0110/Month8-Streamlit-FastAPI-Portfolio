@@ -1,0 +1,6 @@
+project_id,category,platform,city,level,budget_inr,duration_days,client_rating,bids_received,outcome,month_posted
+PJ2001,Web Dev,Freelancer,Chennai,Senior,95000,45,4.9,18,In Progress,Jun
+PJ2002,Graphic Design,Fiverr,Mumbai,Entry,18000,10,4.2,25,Completed,Jul
+PJ2003,Content Writing,Direct Client,Delhi,Mid,32000,20,4.6,6,Completed,Jul
+PJ2004,ML/AI,Toptal,Bangalore,Senior,118000,60,5.0,9,In Progress,Jun
+PJ2005,Data Analytics,Upwork,Hyderabad,Mid,54000,25,4.1,14,Cancelled,Aug
