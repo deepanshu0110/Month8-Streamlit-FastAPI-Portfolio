@@ -27,4 +27,5 @@ Task 6B – NRA Insight (CI/CD business value):
 Local run command for tests (Task 2 reference):
     pytest tests/ -v
 """
-
+badge_md = "![CI](https://github.com/deepanshu0110/Month8-Streamlit-FastAPI-Portfolio/actions/workflows/ci.yml/badge.svg)"
+print(badge_md)

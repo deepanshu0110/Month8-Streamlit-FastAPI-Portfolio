@@ -1,3 +1,5 @@
+[![CI](https://github.com/deepanshu0110/Month8-Streamlit-FastAPI-Portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/deepanshu0110/Month8-Streamlit-FastAPI-Portfolio/actions/workflows/ci.yml)
+
 # Month 8 -- Streamlit + FastAPI Deployment Portfolio
 **Deepanshu Garg | [@deepanshu0110](https://github.com/deepanshu0110)**
 
