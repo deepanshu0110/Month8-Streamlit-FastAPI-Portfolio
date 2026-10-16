@@ -1,4 +1,3 @@
-render_yaml = """
 services:
   - type: web
     name: freelancehub-api
@@ -8,7 +7,4 @@ services:
     plan: free
     envVars:
       - key: SECRET_KEY
-        value: freelancehub-secret-key-2024
-"""
-
-print(render_yaml)
+        sync: false   # set the value in the Render dashboard; never commit it
